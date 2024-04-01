@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio implentado usuário favoritos do Github </h1>
+<h1 align="center"> Desafio implentado usuários favoritos do Github </h1>
 
 <p align="center">
 Desafio do projeto da Rocketseat sobre o API, pegando a API(Application Programming Interface) do Github para cadastrar usuários favoritos, fazendo aplicação prática no projeto. <br/>
@@ -31,6 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Colocando em prática os estudos de SPA em um projeto de desafio da Rocketseat.
+Colocando em prática os estudos de API em um projeto de desafio da Rocketseat.
 
 
